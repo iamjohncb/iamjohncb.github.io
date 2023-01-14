@@ -27,9 +27,6 @@ pygmentsUseClasses = true
     url = "/about/"
     weight = 20
 
-[permalinks]
-  posts = "/:title/"
-
 [markup.goldmark.renderer]
   # Allows HTML in Markdown
   unsafe = true
