@@ -9,9 +9,8 @@ pygmentsUseClasses = true
 [params]
   description = "Your site description"
   copyright = "Copyright © 2023 Cebotari Ion."
-  dark = "off"
+  dark = "auto"
   highlight = true
-  favicon = false
 
 [menu]
   [[menu.main]]
