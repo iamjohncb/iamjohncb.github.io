@@ -24,7 +24,7 @@ pygmentsUseClasses = true
     identifier = "about"
     name = "about"
     title = "about"
-    url = "about/"
+    url = "/about/"
     weight = 20
 
 [permalinks]
