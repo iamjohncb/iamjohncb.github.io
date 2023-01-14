@@ -18,6 +18,7 @@ In this post I will present the books that I am going to read and the books that
 - "Nunta în cer" <i>de Mircea Eliade</i>
 - "Mitul eternei reîntoarceri" <i>de Mircea Eliade</i>
 - "Învățături care schimbă vieți" <i>de Marilee Adams</i>
+- "Amoc. Obsedatul" <i>de Stefan Zweig</i>
 
 *To be completed...*
 
