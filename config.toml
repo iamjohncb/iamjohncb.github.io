@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Your site description"
+  description = "I need a book to heal my head. :)"
   copyright = "Copyright © 2023 Cebotari Ion."
   dark = "on"
   highlight = true
