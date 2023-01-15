@@ -2,7 +2,6 @@
 author = "Cebotari Ion"
 title = "John's mini library"
 date = "2023-01-14"
-description = "John's mini library :)"
 tags = [
     "books",
     "literature",
