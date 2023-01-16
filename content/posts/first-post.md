@@ -37,6 +37,7 @@ In this post I will present the books that I am going to read and the books that
 - "The Willpower Instinct" <i>by Kelly McGonigal</i>
 - "Hagakure" <i>de Yamamoto Tsunetomo</i>
 - "Cel mai bogat om din Babilon" <i>de George Samuel Clason</i>
+- "Homage to Catalonia" <i>de George Orwell</i>
 
 *To be completed...*
 
