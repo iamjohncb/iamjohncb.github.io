@@ -13,7 +13,6 @@ In this post I will present the books that I am going to read and the books that
 #### I'm going to read:
 
 - "The Tell-Tale Brain" <i>by V.S. Ramachandran</i>
-- "Wuthering Heights" <i>by Emily Brontë</i>
 - "Nunta în cer" <i>de Mircea Eliade</i>
 - "Mitul eternei reîntoarceri" <i>de Mircea Eliade</i>
 - "Învățături care schimbă vieți" <i>de Marilee Adams</i>
@@ -51,6 +50,7 @@ In this post I will present the books that I am going to read and the books that
 - "Cel mai iubit dintre pământeni" <i>de Marin Preda</i>
 - "Pădurea spânzuraților" <i>de Liviu Rebreanu</i>
 - "How to Win Friends and Influence People" <i>by Dale Carnegie</i>
+- "Wuthering Heights" <i>by Emily Brontë</i>
 
 
 
