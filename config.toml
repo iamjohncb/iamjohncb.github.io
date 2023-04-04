@@ -1,6 +1,6 @@
 baseURL = 'johnxrd.github.io/'
 languageCode = 'en-us'
-title = 'johnxrd 💻'
+title = 'johnxrd💻'
 theme = 'etch'
 enableInlineShortcodes = true
 pygmentsCodeFences = true
@@ -16,14 +16,14 @@ pygmentsUseClasses = true
   [[menu.main]]
     identifier = "posts"
     name = "posts"
-    title = "posts"
+    title = "posts📜"
     url = "/"
     weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "about"
-    title = "about"
+    title = "about💌"
     url = "/about/"
     weight = 20
 

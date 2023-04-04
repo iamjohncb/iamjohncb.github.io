@@ -1,6 +1,6 @@
 +++
 author = "Cebotari Ion"
-title = "John's mini library"
+title = "John's mini library 📚"
 date = "2023-01-14"
 tags = [
     "books",
