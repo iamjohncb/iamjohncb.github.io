@@ -1,6 +1,6 @@
-baseURL = 'johnxrd.github.io/'
+baseURL = 'iamjohncb.github.io/'
 languageCode = 'en-us'
-title = 'johnxrd 💻'
+title = 'John CB 💻'
 theme = 'etch'
 enableInlineShortcodes = true
 pygmentsCodeFences = true
