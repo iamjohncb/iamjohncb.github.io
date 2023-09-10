@@ -26,7 +26,6 @@ In this post I will present the books that I am going to read and the books that
 - "Rătăcirile fetei nesăbuite" <i>de Mario Vargas Llosa</i>
 - "Alchimistul" <i>de Paulo Coelho</i>
 - "Zece negri mititei" <i>de Agatha Christie</i>
-- "Să ucizi o pasăre cântătoare" <i>de Harper Lee</i>
 - "Современные операционные системы" <i>by Эндрю Таненбаум, Х. Бос</i>
 - "Грокаем алгоритмы" <i>by Адитья Бхаргава</i>
 - "Мастер и Маргарита" <i>by Михаил Булгаков</i>
@@ -35,13 +34,16 @@ In this post I will present the books that I am going to read and the books that
 - "Essentialism: The Disciplined Pursuit of Less" <i>by Greg McKeown</i>
 - "The Willpower Instinct" <i>by Kelly McGonigal</i>
 - "Hagakure" <i>de Yamamoto Tsunetomo</i>
-- "Cel mai bogat om din Babilon" <i>de George Samuel Clason</i>
 - "Homage to Catalonia" <i>de George Orwell</i>
 
 *To be completed...*
 
 #### Already read:
 
+- "Dimineața miraculoasă" de Hal Elrod
+- "Micul prinț" de Antoine de Saint-Exupéry
+- "Cel mai bogat om din Babilon" <i>de George Samuel Clason</i>
+- "Să ucizi o pasăre cântătoare" <i>de Harper Lee</i>
 - "The Great Gatsby" <i>by F. Scott Fitzgerald</i>
 - "Dorian Gray" <i>by Oscar Wilde</i>
 - "1984" <i>by George Orwell</i>
