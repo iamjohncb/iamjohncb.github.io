@@ -4,6 +4,8 @@ title = "Schedule TI-237"
 
 ## This week is odd (impară) 👀
 
+
+<hr>
 |  Marți        |             |
 | :---          |        ---: |
 | 8:00 - 9:30   | AM (624)    |
@@ -44,3 +46,5 @@ title = "Schedule TI-237"
 | 8:00 - 9:30   | Fizica (6-2) |
 | 9:45 - 11:15  | PSA (6-2)    |
 | 11:30 - 13:00 | Fizica (6-2) |
+
+<hr>
