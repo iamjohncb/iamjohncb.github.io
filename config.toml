@@ -26,6 +26,13 @@ pygmentsUseClasses = true
     title = "about"
     url = "/about/"
     weight = 20
+  
+  [[menu.main]]
+    identifier = "schedule TI-237 🤖"
+    name = "schedule TI-237 🤖"
+    title = "schedule"
+    url = "/schedule/"
+    weight = 20
 
 [markup.goldmark.renderer]
   # Allows HTML in Markdown
